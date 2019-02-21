@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: movie
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sbhatt1
+Implementation-Vendor-Id: com.cg.bookmymovie.movie
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/movie
+Created-By: Maven Integration for Eclipse
+
